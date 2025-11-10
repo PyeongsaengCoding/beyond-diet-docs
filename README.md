@@ -13,10 +13,10 @@
 
 GitHub Pages를 통해 다음 URL로 접근할 수 있습니다:
 
-- 서비스 이용약관: `https://PyeongsaengCoding.github.io/beyond-diet-docs/terms-of-service`
-- 개인정보처리방침: `https://PyeongsaengCoding.github.io/beyond-diet-docs/privacy-policy`
-- 민감정보 수집 및 이용 동의: `https://PyeongsaengCoding.github.io/beyond-diet-docs/sensitive-info-consent`
-- 마케팅 정보 수신 동의: `https://PyeongsaengCoding.github.io/beyond-diet-docs/marketing-consent`
+- [서비스 이용약관](https://pyeongsaengcoding.github.io/beyond-diet-docs/terms-of-service)
+- [개인정보처리방침](https://pyeongsaengcoding.github.io/beyond-diet-docs/privacy-policy)
+- [민감정보 수집 및 이용 동의](https://pyeongsaengcoding.github.io/beyond-diet-docs/sensitive-info-consent)
+- [마케팅 정보 수신 동의](https://pyeongsaengcoding.github.io/beyond-diet-docs/marketing-consent)
 
 ## 📅 시행일자
 

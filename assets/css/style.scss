@@ -1,0 +1,77 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.8;
+}
+
+.main-content {
+  max-width: 900px;
+  padding: 2rem 4rem;
+}
+
+h1 {
+  color: #333;
+  border-bottom: 3px solid #667eea;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+h2 {
+  color: #444;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #667eea;
+  padding-left: 1rem;
+}
+
+h3 {
+  color: #555;
+  margin-top: 1.5rem;
+}
+
+a {
+  color: #667eea;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+table th {
+  background: #667eea;
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+}
+
+table tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+@media screen and (max-width: 768px) {
+  .main-content {
+    padding: 1rem;
+  }
+}
+

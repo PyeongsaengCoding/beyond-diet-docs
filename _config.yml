@@ -3,3 +3,21 @@ title: 심플리파이 법적 문서
 description: XimplifAI, Inc. 서비스 이용약관 및 개인정보처리방침
 theme: jekyll-theme-cayman
 
+# Jekyll 설정
+markdown: kramdown
+permalink: pretty
+
+# 플러그인
+plugins:
+  - jekyll-relative-links
+
+# Relative links 설정
+relative_links:
+  enabled: true
+  collections: false
+
+# 제외할 파일
+exclude:
+  - README.md
+  - .gitignore
+

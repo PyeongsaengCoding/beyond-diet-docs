@@ -13,10 +13,10 @@
 
 GitHub Pages를 통해 다음 URL로 접근할 수 있습니다:
 
-- 서비스 이용약관: `https://<사용자명>.github.io/<저장소명>/terms-of-service`
-- 개인정보처리방침: `https://<사용자명>.github.io/<저장소명>/privacy-policy`
-- 민감정보 수집 및 이용 동의: `https://<사용자명>.github.io/<저장소명>/sensitive-info-consent`
-- 마케팅 정보 수신 동의: `https://<사용자명>.github.io/<저장소명>/marketing-consent`
+- 서비스 이용약관: `https://PyeongsaengCoding.github.io/beyond-diet-docs/terms-of-service`
+- 개인정보처리방침: `https://PyeongsaengCoding.github.io/beyond-diet-docs/privacy-policy`
+- 민감정보 수집 및 이용 동의: `https://PyeongsaengCoding.github.io/beyond-diet-docs/sensitive-info-consent`
+- 마케팅 정보 수신 동의: `https://PyeongsaengCoding.github.io/beyond-diet-docs/marketing-consent`
 
 ## 📅 시행일자
 
@@ -31,4 +31,3 @@ GitHub Pages를 통해 다음 URL로 접근할 수 있습니다:
 - 이메일: privacy@ximplif-ai.com
 - 책임자: 금종훈 (대표이사)
 - 담당부서: 개인정보보호팀
-

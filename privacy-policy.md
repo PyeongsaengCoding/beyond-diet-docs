@@ -92,6 +92,8 @@ Azure OpenAI를 통한 AI 분석 과정에서는 전송된 데이터가 모델 �
 
 이용자는 언제든지 개인정보 열람, 정정, 삭제, 처리정지 등을 요청할 수 있습니다. 요청은 이메일, 서면, 고객센터를 통해 가능하며 10일 이내 처리됩니다. 법정대리인 또는 위임을 받은 자를 통한 대리 신청 시 위임장 제출이 필요합니다.
 
+계정 및 관련 데이터 삭제 방법에 대한 별도 안내는 https://pyeongsaengcoding.github.io/beyond-diet-docs/account-deletion/ 에서 확인할 수 있습니다.
+
 ## 제10조 (개인정보의 안전성 확보조치)
 
 1. 내부관리계획 수립 및 직원 보안교육
@@ -138,4 +140,4 @@ Azure OpenAI를 통한 AI 분석 과정에서는 전송된 데이터가 모델 �
 
 ## 제16조 (개인정보처리방침의 변경)
 
-본 방침은 2025년 11월 1일부터 적용됩니다. 내용 추가, 삭제, 수정이 있을 시 최소 7일 전 서비스 내 공지사항을 통해 사전 공지합니다. 이전 개인정보처리방침은 https://pyeongsaengcoding.github.io/beyond-diet-docs/privacy-policy 에서 확인할 수 있습니다.
+본 방침은 2025년 11월 1일부터 적용됩니다. 내용 추가, 삭제, 수정이 있을 시 최소 7일 전 서비스 내 공지사항을 통해 사전 공지합니다. 이전 개인정보처리방침은 https://pyeongsaengcoding.github.io/beyond-diet-docs/privacy-policy/ 에서 확인할 수 있습니다.

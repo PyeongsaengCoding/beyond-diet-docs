@@ -6,8 +6,9 @@
 
 1. [서비스 이용약관](./terms-of-service.md)
 2. [개인정보처리방침](./privacy-policy.md)
-3. [민감정보 수집 및 이용 동의](./sensitive-info-consent.md)
-4. [마케팅 정보 수신 동의](./marketing-consent.md)
+3. [계정 삭제 요청](./account-deletion.md)
+4. [민감정보 수집 및 이용 동의](./sensitive-info-consent.md)
+5. [마케팅 정보 수신 동의](./marketing-consent.md)
 
 ## 🌐 접근 방법
 
@@ -15,6 +16,7 @@ GitHub Pages를 통해 다음 URL로 접근할 수 있습니다:
 
 - [서비스 이용약관](https://pyeongsaengcoding.github.io/beyond-diet-docs/terms-of-service)
 - [개인정보처리방침](https://pyeongsaengcoding.github.io/beyond-diet-docs/privacy-policy)
+- [계정 삭제 요청](https://pyeongsaengcoding.github.io/beyond-diet-docs/account-deletion/)
 - [민감정보 수집 및 이용 동의](https://pyeongsaengcoding.github.io/beyond-diet-docs/sensitive-info-consent)
 - [마케팅 정보 수신 동의](https://pyeongsaengcoding.github.io/beyond-diet-docs/marketing-consent)
 
@@ -22,6 +24,7 @@ GitHub Pages를 통해 다음 URL로 접근할 수 있습니다:
 
 - 서비스 이용약관: **2025년 11월 1일**
 - 개인정보처리방침: **2025년 11월 1일**
+- 계정 삭제 요청: **2026년 4월 8일**
 - 민감정보 수집 및 이용 동의: **2025년 11월 1일**
 - 마케팅 정보 수신 동의: **2025년 11월 1일**
 
